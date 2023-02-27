@@ -25,5 +25,7 @@ module.exports = {
         fixStyle: "inline-type-imports",
       },
     ],
+    "semi": "error",
+    "comma-dangle": ["error", "always-multiline"],
   },
 };
